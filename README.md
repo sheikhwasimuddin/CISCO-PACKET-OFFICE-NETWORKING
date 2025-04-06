@@ -1,25 +1,22 @@
 # CISCO-PACKET-OFFICE-NETWORKING
 
-
-:
-
 📡 Office Networking Automation
 This project is a simulation of a smart office setup using Cisco Packet Tracer. It integrates networking components, IoT devices, sensors, and automation logic to create a responsive and energy-efficient office environment.
 
 🏢 Project Overview
 The smart office is divided into several interconnected zones:
 
-Entrance Room
+1. Entrance Room
 
-Main Room
+2. Main Room
 
-Conference Room
+3. Conference Room
 
-Break Room
+4. Break Room
 
-Safety Room
+5. Safety Room
 
-Server Room
+6. Server Room
 
 Each room is equipped with devices and components that communicate over a network to achieve automation and security goals.
 
@@ -71,13 +68,13 @@ Communication: Wi-Fi via router; server-client over a LAN.
 Power: Solar panel + battery management system.
 
 🔧 Tools Used
-Cisco Packet Tracer (.pkt file)
+1. Cisco Packet Tracer (.pkt file)
 
-IoT Components and Networking Devices
+2. IoT Components and Networking Devices
 
-Solar Power Simulation
+3. Solar Power Simulation
 
-Sensor-based Automation
+4. Sensor-based Automation
 
 🧪 Scenarios Demonstrated
 Scenario	Outcome
