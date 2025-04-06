@@ -1,5 +1,3 @@
-# CISCO-PACKET-OFFICE-NETWORKING
-
 📡 Office Networking Automation
 This project is a simulation of a smart office setup using Cisco Packet Tracer. It integrates networking components, IoT devices, sensors, and automation logic to create a responsive and energy-efficient office environment.
 
