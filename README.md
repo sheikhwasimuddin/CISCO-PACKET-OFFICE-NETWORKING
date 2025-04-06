@@ -1,7 +1,7 @@
-📡 Office Networking Automation
+#📡 Office Networking Automation
 This project is a simulation of a smart office setup using Cisco Packet Tracer. It integrates networking components, IoT devices, sensors, and automation logic to create a responsive and energy-efficient office environment.
 
-🏢 Project Overview
+#🏢 Project Overview
 The smart office is divided into several interconnected zones:
 
 1. Entrance Room
@@ -18,7 +18,7 @@ The smart office is divided into several interconnected zones:
 
 Each room is equipped with devices and components that communicate over a network to achieve automation and security goals.
 
-💡 Key Features
+#💡 Key Features
 1. Smart Door Access (Entrance Room)
 Uses RFID card system for access control.
 
@@ -56,7 +56,7 @@ Devices connect via WRN300N Smart Office Router and Cable Modem.
 
 Cluster0 cloud manages remote access/control simulation.
 
-📡 Devices and Components
+#📡 Devices and Components
 Microcontrollers (MCUs): Control fans, lights, safety devices.
 
 IoT Devices: Fire sensors, sprinklers, motion detectors.
@@ -65,7 +65,7 @@ Communication: Wi-Fi via router; server-client over a LAN.
 
 Power: Solar panel + battery management system.
 
-🔧 Tools Used
+#🔧 Tools Used
 1. Cisco Packet Tracer (.pkt file)
 
 2. IoT Components and Networking Devices
@@ -74,21 +74,21 @@ Power: Solar panel + battery management system.
 
 4. Sensor-based Automation
 
-🧪 Scenarios Demonstrated
+#🧪 Scenarios Demonstrated
 Scenario	Outcome
 Fake RFID card	Door stays locked
 Valid RFID card	Door opens
 Fire detected in Safety Room	Siren + Sprinkler activate
 Presence in Break Room	Fan and Coffee Maker activate automatically
 Solar energy zero (night)	Devices rely on stored battery power
-📁 Files Included
+#📁 Files Included
 office networking.pkt: Main simulation file
 
 Report_Cisco_Packet_73.docx/pdf: Project documentation
 
 Screenshots: Visual reference of setup and simulation states
 
-✅ How to Run
+#✅ How to Run
 Open Cisco Packet Tracer.
 
 Load the office networking.pkt file.
@@ -105,10 +105,10 @@ Simulating fire by toggling the IoT Thing device.
 
 Observe system reactions and server logs.
 
-📌 Notes
+#📌 Notes
 Ensure all IoT and network components are online for accurate simulation.
 
 The solar panel power may read 0 W at night simulation (second screenshot), demonstrating dependency on battery.
 
-🧠 Authors & Contributors
+#🧠 Authors & Contributors
 Smart automation designed using Cisco Packet Tracer for learning and simulation purposes.
